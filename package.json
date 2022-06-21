@@ -1,5 +1,5 @@
 {
-  "name": "audiobook-system",
+  "name": "vue3-vite2-start",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
